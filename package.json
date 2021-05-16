@@ -6,7 +6,7 @@
   "scripts": {
     "start": "cross-env NODE_ENV=production node app"
   },
-  "author": "Brad Traversy",
+  "author": "durgesh",
   "license": "MIT",
   "dependencies": {
     "connect-mongo": "^3.2.0",
