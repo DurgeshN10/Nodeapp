@@ -18,3 +18,12 @@ npm run dev
 # Run in production
 npm start
 ```
+
+
+# Add config file 
+
+
+PORT = 3000
+MONGO_URI = 
+GOOGLE_CLIENT_ID = 
+GOOGLE_CLIENT_SECRET = 
