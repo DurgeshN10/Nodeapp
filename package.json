@@ -14,6 +14,7 @@
     "express": "^4.17.1",
     "express-handlebars": "^4.0.4",
     "express-session": "^1.17.1",
+    "firebase-tools": "^9.10.2",
     "fs-extra": "^9.0.1",
     "method-override": "^3.0.0",
     "moment": "^2.27.0",
@@ -23,7 +24,6 @@
     "passport-google-oauth20": "^2.0.0"
   },
   "devDependencies": {
-    "cross-env": "^7.0.2",
-    "nodemon": "^2.0.4"
+    "cross-env": "^7.0.2"
   }
 }
